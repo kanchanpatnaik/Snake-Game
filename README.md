@@ -22,3 +22,5 @@ A classic **Snake Game** recreated using modern web technologies. The player con
 - HTML
 - CSS
 - JavaScript
+
+URL for website: https://kanchanpatnaik.github.io/Snake-Game/
